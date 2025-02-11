@@ -1,6 +1,7 @@
 import React, { useState, useEffect }from 'react'
 import axios from 'axios'
 import Card from './Card'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const api_Key = 'DEMO_KEY'
